@@ -1,0 +1,9 @@
+git clone https://github.com/ecaofc/test_repo.git
+
+git status
+
+git add имя_файла
+
+git commit -m "Название коммита"
+
+git push origin main
